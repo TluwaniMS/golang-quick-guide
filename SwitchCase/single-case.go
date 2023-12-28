@@ -11,5 +11,7 @@ func main()  {
 		fmt.Println("It's the second number!")
 	case 11:
 		fmt.Println("It's the third number!")
+	default:
+		fmt.Println("The number is not provided for!")
 	}
 }

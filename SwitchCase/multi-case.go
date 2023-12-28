@@ -2,7 +2,7 @@ package main
 import ("fmt")
 
 func main()  {
-	number := 11
+	number := 13
 	
 	switch number {
 	case 1,3,5:
@@ -11,5 +11,7 @@ func main()  {
 		fmt.Println("Grouped with the middle three!")
 	case 13,15,17:
 		fmt.Println("Grouped with the last three")
+	default:
+		fmt.Println("Number provided is not available in any grouping!")
 	}
 }
