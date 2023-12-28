@@ -1,6 +1,10 @@
 package main
 import ("fmt")
 
-func main()  {
+func greetTheWorld(){
+	fmt.Println("Hello from the world of Go!!!")
+}
 
+func main()  {
+	greetTheWorld()
 }
