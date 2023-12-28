@@ -25,3 +25,33 @@ arrayOfStrings = [3]string{"Thabo","Lufuno","Sizwe"}
 ```
 arrayOfStrings = [...]string{"Thabo","Lufuno","Sizwe"}
 ```
+
+#### Accessing array values:
+
+```
+arrayOfStrings = [3]string{"Thabo","Lufuno","Sizwe"}
+```
+
+##### Accessing the first value of the array:
+
+```
+arrayOfStrings[0]
+```
+
+##### Accessing the third value of the array:
+
+```
+arrayOfStrings[2]
+```
+
+##### Replacing the first value of the array:
+
+```
+arrayOfStrings[0] = "Olwethu"
+```
+
+##### Replacing the third value of the array:
+
+```
+arrayOfStrings[2] = "Mashudu"
+```
