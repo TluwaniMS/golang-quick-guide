@@ -31,3 +31,30 @@ Divides one value by another
 Returns the division remainder	
 
 `x % y`
+
+
+## Assignment operators:
+
+* =
+
+`x = 5` is equivalent to `x = 5`
+
+* +=
+
+`x += 3` is equivalent to `x = x + 3`
+
+* -=
+
+`x -= 3` is equivalent to `x = x - 3`
+
+* *=
+
+`x *= 3` is equivalent to `x = x * 3`
+
+* /=
+
+`x /= 3` is equivalent to `x = x / 3`
+
+* %=
+
+`x %= 3` is equivalent to `x = x % 3`
