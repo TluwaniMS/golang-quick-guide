@@ -41,5 +41,11 @@ go run Slices/make-function-example.go
 ## appending a slice to a slice example:
 
 ```
+go run Slices/appending-slice-to-slice-example.go 
+```
+
+## basic slice appending:
+
+```
 go run Slices/basic-appending-to-slice-example.go 
 ```
