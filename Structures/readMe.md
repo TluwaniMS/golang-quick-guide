@@ -10,3 +10,9 @@ type struct_name struct {
   ...
 }
 ```
+
+## Struct examples:
+
+```
+go run Structures/basic-struct-example.go 
+```

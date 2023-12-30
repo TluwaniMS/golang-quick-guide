@@ -18,7 +18,6 @@ func main() {
 	fmt.Println("Person 1 name :",person1.name)
 	fmt.Println("Person 1 information :", person1)
 
-
 	fmt.Println("Person 2 name :",person2.name)
 	fmt.Println("Person 2 information :", person2)
 }
