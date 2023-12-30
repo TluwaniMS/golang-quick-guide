@@ -30,3 +30,11 @@ slice_name := make([]type, length, capacity)
 ```
 slice_name = append(slice_name, element1, element2, ...)
 ```
+
+
+## make() example:
+
+```
+go run Slices/make-function-example.go
+```
+
