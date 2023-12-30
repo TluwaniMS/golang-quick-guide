@@ -22,3 +22,11 @@ can also be used to create a slice.
 ```
 slice_name := make([]type, length, capacity)
 ```
+
+## Modifying Slices:
+
+#### Appending:
+
+```
+slice_name = append(slice_name, element1, element2, ...)
+```
