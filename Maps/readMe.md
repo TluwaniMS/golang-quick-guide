@@ -14,3 +14,9 @@ OR
 
 b := map[KeyType]ValueType{key1:value1, key2:value2,...}
 ```
+
+## Example for basic Maps:
+
+```
+go run Maps/basic-maps-example.go
+```
