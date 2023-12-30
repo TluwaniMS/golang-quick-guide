@@ -38,3 +38,8 @@ slice_name = append(slice_name, element1, element2, ...)
 go run Slices/make-function-example.go
 ```
 
+## appending a slice to a slice example:
+
+```
+go run Slices/basic-appending-to-slice-example.go 
+```
